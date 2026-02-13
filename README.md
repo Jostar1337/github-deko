@@ -1,5 +1,5 @@
 
-## 🌐Socials
+# 🌐Socials
 <br><br>
 <a href="https://discordapp.com/users/1073744296215318579" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
